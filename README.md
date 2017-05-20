@@ -41,7 +41,7 @@ C-library cidr if for working with CIDR ranges that has 2 functions:
 - compares two CIDR ranges as specified above
 
 Build
--------------
+=============
 
 This project is generated using `cmake`. To generate a visual studio project, run
 ```
@@ -54,7 +54,7 @@ cmake -G "Unix Makefiles"
 
 
 Run
--------------
+=============
 
 Project has 3 targets: cidr library, unittest and cidr_app.
 If Doxygen is found, an additional project aims to generate the API doc.
