@@ -40,4 +40,21 @@ C-library cidr if for working with CIDR ranges that has 2 functions:
 - creates a CIDR range from it's string representation
 - compares two CIDR ranges as specified above
 
-See doc for details.
+Build
+-------------
+
+This project is generated using `cmake`. To generate a visual studio project, run
+```
+cmake -G "Visual Studio 15 2017 Win64"
+```
+To generate make files on Unix, use
+```
+cmake -G "Unix Makefiles"
+```
+
+
+Run
+-------------
+
+Project has 3 targets: cidr library, unittest and cidr_app. See documentation for details.
+If Doxygen is found, an additional project aims to generate the API doc.
