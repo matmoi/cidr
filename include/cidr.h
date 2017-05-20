@@ -5,7 +5,6 @@
 * \version 0.1
 * \date May 21st 2017
 *
-* \mainpage C-library to manipulate ipv4 addresses and CIDR ranges
 */
 
 #include <stdint.h>

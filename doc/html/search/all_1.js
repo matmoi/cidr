@@ -14,5 +14,6 @@ var searchData=
   ['cidr_5fok',['CIDR_OK',['../cidr_8h.html#a5402758644d7a34ef239d78247550003aa6ca986363f216cac52dc073899cb39b',1,'cidr.h']]],
   ['cidr_5fretval',['CIDR_RETVAL',['../cidr_8h.html#a5402758644d7a34ef239d78247550003',1,'CIDR_RETVAL():&#160;cidr.h'],['../cidr_8h.html#aae7f41f4c646703deac568183cf01a72',1,'CIDR_RETVAL():&#160;cidr.h']]],
   ['cidr_5fsubset',['CIDR_SUBSET',['../cidr_8h.html#a62268adbd1b2e0792a5c3db114930057ae0a997c6d54188afd6c2f1398833497f',1,'cidr.h']]],
-  ['cidr_5fsuperset',['CIDR_SUPERSET',['../cidr_8h.html#a62268adbd1b2e0792a5c3db114930057aeb9df9925bde10bac3c8e2dfa95991c7',1,'cidr.h']]]
+  ['cidr_5fsuperset',['CIDR_SUPERSET',['../cidr_8h.html#a62268adbd1b2e0792a5c3db114930057aeb9df9925bde10bac3c8e2dfa95991c7',1,'cidr.h']]],
+  ['cidr_20library',['Cidr library',['../index.html',1,'']]]
 ];
