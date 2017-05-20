@@ -56,5 +56,5 @@ cmake -G "Unix Makefiles"
 Run
 -------------
 
-Project has 3 targets: cidr library, unittest and cidr_app. See documentation for details.
+Project has 3 targets: cidr library, unittest and cidr_app.
 If Doxygen is found, an additional project aims to generate the API doc.
